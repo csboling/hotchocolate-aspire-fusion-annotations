@@ -1,0 +1,11 @@
+﻿schema {
+  query: Query
+}
+
+type Foo {
+  bar: String!
+}
+
+type Query {
+  foo: Foo!
+}

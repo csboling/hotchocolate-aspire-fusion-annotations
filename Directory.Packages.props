@@ -1,0 +1,10 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="Aspire.Hosting.AppHost" Version="8.2.1" />
+    <PackageVersion Include="HotChocolate.AspNetCore" Version="15.0.0-p.3" />
+    <PackageVersion Include="HotChocolate.AspNetCore.CommandLine" Version="15.0.0-p.3" />
+    <PackageVersion Include="HotChocolate.Types.Analyzers" Version="15.0.0-p.3" />
+    <PackageVersion Include="HotChocolate.Fusion" Version="15.0.0-p.3" />
+    <PackageVersion Include="HotChocolate.Fusion.Aspire" Version="15.0.0-p.3" />
+  </ItemGroup>
+</Project>
